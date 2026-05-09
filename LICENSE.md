@@ -1,4 +1,4 @@
-
+Enhance Craft for macOS with Craft for macOS ultimate Addon - database templates and focus mode, the #1 addon. Includes database templates and focus mode for a smoother experience.
 
 
 
